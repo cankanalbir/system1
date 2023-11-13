@@ -86,7 +86,7 @@
 ## 3.1 البند الأوّل: سلّم الهيكليّة
 ### **3.1.1**	سلّم الهيكليّة العامّة
   
-![image](https://github.com/cankanalbir/system1/assets/129911554/9ea02c4b-5e43-4791-be6a-cd35dbda261a)
+![image](https://github.com/cankanalbir/system1/assets/129911554/e543dd33-a56d-4d6f-a681-eb36d5863f71)
 
 
 ### **3.1.2**	سلّم الهيكليّة الإداريّة
