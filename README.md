@@ -1,7 +1,7 @@
 ### تجمّع إبتكار - النّظام الدّاخلي
 
 - هذا المجلّد يحتوي على ملفّات النّظام الدّاخلي لتجمّع إبتكار
-- رابط الملف: [data.ibtikar.org.tr/documents/system.pdf](https://github.com/cankanalbir/system1)
+- رابط الملف: [https://github.com/cankanalbir/system1](https://github.com/cankanalbir/system1)
 
 #### المحتوى
 -	الباب الأوّل: [هوية التجمّع](#1-الباب-الأول-هويّة-التجمع)
