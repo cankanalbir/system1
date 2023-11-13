@@ -91,9 +91,9 @@
 
 ### **3.1.2**	سلّم الهيكليّة الإداريّة
 
-![image](https://github.com/cankanalbir/system1/assets/129911554/9dcdbd18-5c31-42dd-9e3b-6e6722f1c004)
-![image](https://github.com/cankanalbir/system1/assets/129911554/c58341db-4fcd-4370-9935-552f9209c6a8)
-![image](https://github.com/cankanalbir/system1/assets/129911554/0b3a9e8a-2cbc-45bc-827c-25e905838aff)
+![image](https://github.com/cankanalbir/system1/assets/129911554/05ab971a-c4f1-48b4-a3d3-059bd933d855)
+![image](https://github.com/cankanalbir/system1/assets/129911554/42e9d6e1-382a-4583-853a-f3c45cb2e865)
+![image](https://github.com/cankanalbir/system1/assets/129911554/9a615b41-2a8b-4be2-a0c6-e1254c3454e4)
 
  
  
