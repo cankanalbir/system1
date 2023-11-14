@@ -4,7 +4,8 @@
 - رابط هذا النظام الداخلي: [github.com/cankanalbir/system1](https://github.com/cankanalbir/system1)
 
 #### ملحقات النظام الداخلي
-- أسئلة شائعة: [FAQ](FAQ.md)
+- الملف التعريفي: [intro](intro.pdf)
+-  أسئلة شائعة: [FAQ](FAQ.md)
 - أرشيف النّظام الدّاخلي: [archive](https://link.ibtikar.org.tr/archive)
 
 ### المحتوى
