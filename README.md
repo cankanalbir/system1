@@ -1,4 +1,4 @@
-![image](https://github.com/cankanalbir/system1/assets/129911554/e515b7e0-7375-4082-9a71-2e5c87edd738)### تجمّع إبتكار - النّظام الدّاخلي
+### تجمّع إبتكار - النّظام الدّاخلي
 
 - هذا المجلّد يحتوي على ملفّات النّظام الدّاخلي لتجمّع إبتكار
 - رابط الملف: [https://github.com/cankanalbir/system1](https://github.com/cankanalbir/system1)
