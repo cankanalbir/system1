@@ -263,9 +263,7 @@
 
 
 ## المعرفات الرسمية للتجمع
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/ibtikar-org-tr/)
-https://www.instagram.com/ibtikar.org.tr
 
-- ![mail](https://github.com/cankanalbir/system1/assets/129911554/82e8a80e-5070-4869-b0e5-b5feb1e636f1)<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path d="M1.75 3h20.5c.966 0 1.75.784 1.75 1.75v14a1.75 1.75 0 0 1-1.75 1.75H1.75A1.75 1.75 0 0 1 0 18.75v-14C0 3.784.784 3 1.75 3ZM1.5 7.412V18.75c0 .138.112.25.25.25h20.5a.25.25 0 0 0 .25-.25V7.412l-9.52 6.433c-.592.4-1.368.4-1.96 0Zm0-2.662v.852l10.36 7a.25.25 0 0 0 .28 0l10.36-7V4.75a.25.25 0 0 0-.25-.25H1.75a.25.25 0 0 0-.25.25Z"></path></svg> ibtikar@relations.org.tr
+[![image](https://img.shields.io/badge/instagram-ibtikar.org.tr-purple?logo=instagram&labelColor=white)](https://www.instagram.com/ibtikar.org.tr)   [![image](https://img.shields.io/badge/linkedin-ibtikar--org--tr-blue?logo=linkedin&logoColor=blue&labelColor=white)](https://www.linkedin.com/company/ibtikar-org-tr)
 
-[![image](https://github.com/cankanalbir/system1/assets/129911554/f378693c-5900-485d-82ef-e2592cd486b1)](https://www.linkedin.com/company/ibtikar-org-tr/)
+[![image](https://img.shields.io/badge/website-ibtikar.org.tr-gray?logo=wordpress&logoColor=black&labelColor=white)](https://ibtikar.org.tr)   [![image](https://img.shields.io/badge/mail-relations%40ibtikar.org.tr-gray?logo=gmail&labelColor=white)](relations@ibtokar.org.tr)
