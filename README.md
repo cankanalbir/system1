@@ -1,12 +1,12 @@
 ### تجمّع إبتكار - النّظام الدّاخلي
 
 - هذا المجلّد يحتوي على ملفّات النّظام الدّاخلي لتجمّع إبتكار
-- رابط هذا النظام الداخلي: ![Static Badge](https://img.shields.io/badge/-system-gray?logo=github&logoColor=black&labelColor=white&link=https%3A%2F%2Fgithub.com%2Fcankanalbir%2Fsystem1)
+- رابط هذا النظام الداخلي: [![Static Badge](https://img.shields.io/badge/-system-gray?logo=github&logoColor=black&labelColor=white)](https://github.com/cankanalbir/system1)
 
 #### ملحقات النظام الداخلي
-- الملف التعريفي: ![Static Badge](https://img.shields.io/badge/-intro-blue?logo=windowsterminal&logoColor=black&labelColor=white&link=intro.md)
--  أسئلة شائعة: ![Static Badge](https://img.shields.io/badge/-FAQ-gray?logo=qualcomm&logoColor=black&labelColor=white&link=FAQ.md)
-- أرشيف النّظام الدّاخلي: ![Static Badge](https://img.shields.io/badge/-archive-gray?logo=internetarchive&logoColor=gray&labelColor=white&link=intro.md)
+- الملف التعريفي: [![Static Badge](https://img.shields.io/badge/-intro-blue?logo=windowsterminal&logoColor=black&labelColor=white)](intro.md)
+-  أسئلة شائعة: [![Static Badge](https://img.shields.io/badge/-FAQ-purple?logo=qualcomm&logoColor=black&labelColor=white)](FAQ.md)
+- أرشيف النّظام الدّاخلي: [![Static Badge](https://img.shields.io/badge/-archive-gray?logo=internetarchive&logoColor=gray&labelColor=white)](https://link.ibtikar.org.tr/archive)
 
 ### المحتوى
 | رابط سريع | الباب |
