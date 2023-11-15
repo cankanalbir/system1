@@ -1,5 +1,5 @@
 - هذا المُلحق هو للأسئلة الشّائعة لـ تجمّع إبتكار
-- ملف النظام الداخلي: [system](README.md)
+- ملف النظام الداخلي: [![Static Badge](https://img.shields.io/badge/-system-gray?logo=github&logoColor=black&labelColor=white)](https://github.com/cankanalbir/system1)
 
 # الأسئلة الشّائعة
 ### ما هو تجمّع إبتكار؟
