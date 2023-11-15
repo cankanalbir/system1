@@ -4,9 +4,9 @@
 - رابط هذا النظام الداخلي: [github.com/cankanalbir/system1](https://github.com/cankanalbir/system1)
 
 #### ملحقات النظام الداخلي
-- الملف التعريفي: [intro](intro.pdf)
--  أسئلة شائعة: [FAQ](FAQ.md)
-- أرشيف النّظام الدّاخلي: [archive](https://link.ibtikar.org.tr/archive)
+- الملف التعريفي: ![Static Badge](https://img.shields.io/badge/-intro-blue?logo=windowsterminal&logoColor=black&labelColor=white&link=intro.md)
+-  أسئلة شائعة: ![Static Badge](https://img.shields.io/badge/-FAQ-gray?logo=qualcomm&logoColor=black&labelColor=white&link=FAQ.md)
+- أرشيف النّظام الدّاخلي: ![Static Badge](https://img.shields.io/badge/-archive-gray?logo=internetarchive&logoColor=gray&labelColor=white&link=intro.md)
 
 ### المحتوى
 -	الباب الأوّل: [هوية التجمّع](#1-الباب-الأول-هويّة-التجمع)
@@ -14,8 +14,8 @@
 -	الباب الثّالث: [هيكليّة التجمّع](#3-الباب-الثّالث-هيكليّة-التجمع)
 -	الباب الرّابع: [العضويّة](#4-الباب-الرّابع-العضويّة)
 
-| **** | المحتوى  |
-| :-------- | :------- |
+| ########## | المحتوى  |
+| :---- | :---- |
 | [هوية التجمّع](#1-الباب-الأول-هويّة-التجمع) | `الباب الأوّل` |
 | [مواد النّظام العامّة](#2-الباب-الثّاني-مواد-النّظام-الدّاخلي) | `الباب الثّاني` |
 | [هيكليّة التجمّع](#3-الباب-الثّالث-هيكليّة-التجمع) | `الباب الثّالث` |
