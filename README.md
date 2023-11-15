@@ -1,7 +1,7 @@
 ### تجمّع إبتكار - النّظام الدّاخلي
 
 - هذا المجلّد يحتوي على ملفّات النّظام الدّاخلي لتجمّع إبتكار
-- رابط هذا النظام الداخلي: ![Static Badge](https://img.shields.io/badge/-system-gray?logo=github&logoColor=black&labelColor=white&link=github.com%2Fcankanalbir%2Fsystem1)
+- رابط هذا النظام الداخلي: ![Static Badge](https://img.shields.io/badge/-system-gray?logo=github&logoColor=black&labelColor=white&link=https%3A%2F%2Fgithub.com%2Fcankanalbir%2Fsystem1)
 
 #### ملحقات النظام الداخلي
 - الملف التعريفي: ![Static Badge](https://img.shields.io/badge/-intro-blue?logo=windowsterminal&logoColor=black&labelColor=white&link=intro.md)
