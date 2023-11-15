@@ -4,7 +4,7 @@
 - رابط هذا النظام الداخلي: [![Static Badge](https://img.shields.io/badge/-system-gray?logo=github&logoColor=black&labelColor=white)](https://github.com/cankanalbir/system1)
 
 #### ملحقات النظام الداخلي
-- الملف التعريفي: [![Static Badge](https://img.shields.io/badge/-intro-blue?logo=windowsterminal&logoColor=black&labelColor=white)](intro.md)
+- الملف التعريفي: [![Static Badge](https://img.shields.io/badge/-intro-blue?logo=windowsterminal&logoColor=black&labelColor=white)](intro.pdf)
 -  أسئلة شائعة: [![Static Badge](https://img.shields.io/badge/-FAQ-purple?logo=qualcomm&logoColor=black&labelColor=white)](FAQ.md)
 - أرشيف النّظام الدّاخلي: [![Static Badge](https://img.shields.io/badge/-archive-gray?logo=internetarchive&logoColor=gray&labelColor=white)](https://link.ibtikar.org.tr/archive)
 
