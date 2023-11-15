@@ -9,7 +9,7 @@
 - أرشيف النّظام الدّاخلي: [![Static Badge](https://img.shields.io/badge/-archive-gray?logo=internetarchive&logoColor=gray&labelColor=white)](https://link.ibtikar.org.tr/archive)
 
 ### المحتوى
-| رابط سريع | الباب |
+| اضغط للوصول | الباب |
 | :---- | :---- |
 | [هوية التجمّع](#1-الباب-الأول-هويّة-التجمع) | `الباب الأوّل` |
 | [مواد النّظام العامّة](#2-الباب-الثّاني-مواد-النّظام-الدّاخلي) | `الباب الثّاني` |
