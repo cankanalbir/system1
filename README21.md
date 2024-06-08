@@ -4,7 +4,7 @@
 - رابط هذا النظام الداخلي: [![Static Badge](https://img.shields.io/badge/-system-gray?logo=github&logoColor=black&labelColor=white)](https://github.com/ibtikar-org-tr/bylaws)
 
 #### ملحقات النظام الداخلي
-- الملف التعريفي: [![Static Badge](https://img.shields.io/badge/intro-ar-blue?style=flat&logo=libreoffice&logoColor=blue&labelColor=white)](https://data.ibtikar.org.tr/documents/ar/intro.pdf) [![Static Badge](https://img.shields.io/badge/intro-tr-blue?style=flat&logo=libreoffice&logoColor=blue&labelColor=white)](https://data.ibtikar.org.tr/documents/tr/intro.pdf) [![Static Badge](https://img.shields.io/badge/intro-en-blue?style=flat&logo=libreoffice&logoColor=blue&labelColor=white)](https://data.ibtikar.org.tr/documents/en/intro.pdf)
+- الملف التعريفي: [![Static Badge](https://img.shields.io/badge/intro-ar-27ae60?style=flat&logo=libreoffice&logoColor=27ae60&labelColor=white)](https://data.ibtikar.org.tr/documents/ar/intro.pdf) [![Static Badge](https://img.shields.io/badge/intro-tr-c0392b?style=flat&logo=libreoffice&logoColor=c0392b&labelColor=white)](https://data.ibtikar.org.tr/documents/tr/intro.pdf) [![Static Badge](https://img.shields.io/badge/intro-en-f1c40f?style=flat&logo=libreoffice&logoColor=f1c40f&labelColor=white)](https://data.ibtikar.org.tr/documents/en/intro.pdf)
 -  أسئلة شائعة: [![Static Badge](https://img.shields.io/badge/-FAQ-purple?logo=qualcomm&logoColor=black&labelColor=white)](FAQ.md)
 -  منصّة تكنوفست بالعربي: [![Static Badge](https://img.shields.io/badge/-TEKNOFEST__ar-FF4A17?logo=firebase&logoColor=FF4A17&labelColor=white)](TEKNOFEST_ar)
 -  الأندية الطلابية: [![Static Badge](https://img.shields.io/badge/beta-clubs-blue?logo=clubhouse&logoColor=blue&labelColor=white)](/clubs/beta/README.md)
