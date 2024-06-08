@@ -104,8 +104,24 @@
 
 ## `3.1` البند الأوّل: سلّم الهيكليّة
 ### `3.1.1`	سلّم الهيكليّة العامّة
-  
-![image](https://github.com/ibtikar-org-tr/bylaws/assets/54938173/114f5ed7-f8a4-4e73-8897-27fe9621fe6a)
+``` mermaid
+flowchart LR
+    BOT[مجلس الأمناء] -->BOD{مجلس الإدارة}
+
+    BOD --> scientific(الوحدة العلميّة)
+    BOD --> projects(وحدة المشاريع)
+    BOD --> logistics(الوحدة اللوجستيّة)
+    BOD --> relations(مكتب العلاقات)
+
+    logistics --> l1(مكتب الأنشطة)
+    logistics --> l2(المكتب الإعلامي)
+
+    projects --> p1(منصّة مشاريع إبتكار)
+    projects --> p3(منصّة تكنوفست بالعربي)
+    projects --> p2(نفق المناجم)
+
+    scientific --> s1(الأندية)
+```
 
 
 ### `3.1.2`	سلّم الهيكليّة الإداريّة
