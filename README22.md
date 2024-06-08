@@ -124,8 +124,41 @@ flowchart LR
 
 ### `3.1.2`	سلّم الهيكليّة الإداريّة
 
-![image](https://github.com/ibtikar-org-tr/bylaws/assets/54938173/954e0170-0877-4ef4-8be0-05f27c5b6da4)
-![image](https://github.com/ibtikar-org-tr/bylaws/assets/54938173/4fd3cc78-941f-4eda-b528-449a6a91b0fa)
+``` mermaid
+flowchart LR
+    BOT[أعضاء مجلس الأمناء] --> BOD[رئيس مجلس الإدارة]
+    BOD --> deputy[نائب رئيس مجلس الإدارة]
+    BOD --> scientific[مدير الوحدة العلمية]
+    BOD --> logistics[مدير الوحدة اللوجستية]
+    BOD --> relations[مدير مكتب العلاقات]
+
+    deputy --> clubManager[مسؤولي الأندية]
+    deputy --> projectManager[مسؤولي المشاريع]
+
+    clubManager --> clubMembers[منسقي الأندية]
+    projectManager --> projectMembers[منسقي المشاريع]
+
+    logistics --> mediaOffice[أعضاء المكتب الإعلامي]
+    logistics --> activitiesOffice[أعضاء مكتب الأنشطة]
+    logistics --> archiveOffice[أعضاء مكتب الأرشيف]
+    relations --> relationsMembers[أعضاء مكتب العلاقات]
+
+    style BOT fill:#3399FF,stroke:#000,stroke-width:1px
+    style BOD fill:#3399FF,stroke:#000,stroke-width:1px
+    style deputy fill:#3399FF,stroke:#000,stroke-width:1px
+    style scientific fill:#3399FF,stroke:#000,stroke-width:1px
+    style logistics fill:#3399FF,stroke:#000,stroke-width:1px
+    style relations fill:#3399FF,stroke:#000,stroke-width:1px
+    style clubManager fill:#3399FF,stroke:#000,stroke-width:1px
+    style projectManager fill:#3399FF,stroke:#000,stroke-width:1px
+    style clubMembers fill:#3399FF,stroke:#000,stroke-width:1px
+    style projectMembers fill:#3399FF,stroke:#000,stroke-width:1px
+    style mediaOffice fill:#3399FF,stroke:#000,stroke-width:1px
+    style activitiesOffice fill:#3399FF,stroke:#000,stroke-width:1px
+    style archiveOffice fill:#3399FF,stroke:#000,stroke-width:1px
+    style relationsMembers fill:#3399FF,stroke:#000,stroke-width:1px
+```
+
 
  
  
