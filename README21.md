@@ -106,21 +106,28 @@
 ### `3.1.1`	سلّم الهيكليّة العامّة
 ``` mermaid
 flowchart LR
-    BOT[مجلس الأمناء] -->BOD{مجلس الإدارة}
+  BOT[مجلس الأمناء] -->BOD{مجلس الإدارة}
+  style BOT fill:white,stroke:black,stroke-width:3px,stroke-dasharray: 5 5
+  style BOD stroke:black,stroke-width:2px
 
-    BOD --> scientific(الوحدة العلميّة)
-    BOD --> projects(وحدة المشاريع)
-    BOD --> logistics(الوحدة اللوجستيّة)
-    BOD --> relations(مكتب العلاقات)
-
-    logistics --> l1(مكتب الأنشطة)
-    logistics --> l2(المكتب الإعلامي)
-
-    projects --> p1(منصّة مشاريع إبتكار)
-    projects --> p3(منصّة تكنوفست بالعربي)
-    projects --> p2(نفق المناجم)
-
-    scientific --> s1(الأندية)
+  BOD --> scientific(الوحدة العلميّة)
+  BOD --> projects(وحدة المشاريع)
+  BOD --> logistics(الوحدة اللوجستيّة)
+  BOD --> relations(مكتب العلاقات)
+  
+  style scientific stroke:black
+  style projects stroke:black
+  style logistics stroke:black
+  style relations stroke:black
+  
+  logistics --> l1(مكتب الأنشطة)
+  logistics --> l2(المكتب الإعلامي)
+  
+  projects --> p1(منصّة مشاريع إبتكار)
+  projects --> p3(منصّة تكنوفست بالعربي)
+  projects --> p2(نفق المناجم)
+  
+  scientific --> s1(الأندية)
 ```
 
 
