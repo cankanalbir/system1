@@ -95,16 +95,17 @@
 
 ## `3.1` البند الأوّل: سلّم الهيكليّة
 ### `3.1.1`	سلّم الهيكليّة العامّة
+
 ``` mermaid
-flowchart LR
+flowchart RL
   BOT[مجلس الأمناء] -->BOD{مجلس الإدارة}
-  style BOT fill:white,stroke:black,stroke-width:3px,stroke-dasharray: 5 5
+  style BOT stroke:black,stroke-width:3px,stroke-dasharray: 5 5
   style BOD stroke:black,stroke-width:2px
 
   BOD --> scientific(الوحدة العلميّة)
   BOD --> projects(وحدة المشاريع)
   BOD --> logistics(الوحدة اللوجستيّة)
-  BOD --> relations(مكتب العلاقات)
+  BOD --> information(وحدة المعلومات)
   
   style scientific stroke:black
   style projects stroke:black
@@ -116,16 +117,18 @@ flowchart LR
   
   projects --> p1(منصّة مشاريع إبتكار)
   projects --> p3(منصّة تكنوفست بالعربي)
-  projects --> p2(نفق المناجم)
+  projects --> p2(المشاريع الأخرى)
   
   scientific --> s1(الأندية)
-```
 
+  information --> i1(مكتب العلاقات)
+  information --> i1(مكتب الموارد البشريّة)
+```
 
 ### `3.1.2`	سلّم الهيكليّة الإداريّة
 
 ``` mermaid
-flowchart LR
+flowchart RL
 
 subgraph 0 [الأمناء]
 BOT[أعضاء مجلس الأمناء]
