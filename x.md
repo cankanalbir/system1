@@ -1,5 +1,244 @@
 ``` mermaid
 flowchart RL
+
+subgraph 0 [أعضاء مجلس الأمناء]
+BOT0([عبد الكريم لحموني])
+BOT1(سعد الرفاعي)
+BOT2(عبد الله دعمش)
+BOT3(عضو آخر)
+end
+
+BOT0 & BOT1 & BOT2 & BOT3 -..-o BOD{مدير مجلس الإدارة <br> عبد الكريم لحموني}
+
+style BOD stroke:black,stroke-width:2px
+
+subgraph 1 [أعضاء مجلس الإدارة]
+BOD --- scientific[ مدير الوحدة العلميّة <br> ماسة سودان ]
+BOD --- projects{{مدير وحدة المشاريع <br> عبد الله دعمش }}
+BOD --- logistics{{مدير الوحدة اللوجستيّة <br> سدرة عجم }}
+BOD --- information{{مدير وحدة المعلومات <br> سعد الرفاعي }}
+end
+
+style scientific stroke:black
+style projects stroke:black
+style logistics stroke:black
+style information stroke:black
+
+subgraph 2 [مسؤولو الفرق]
+scientific --> s1(مسؤولو الأندية)
+
+projects --> p1(مسؤول منصّة مشاريع إبتكار)
+projects --> p3(مسؤول منصّة تكنوفست بالعربي)
+projects --> p2(مسؤولو المشاريع الأخرى)
+
+logistics --> l1(مسؤول مكتب الأنشطة)
+logistics --> l2(مسؤول المكتب الإعلامي)
+
+information --> i1(مسؤول مكتب العلاقات)
+information --> i2(مسؤول مكتب الموارد البشريّة)
+end
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+``` mermaid
+flowchart RL
+
+subgraph 0 [الأمناء]
+BOT([أعضاء مجلس الأمناء])
+end
+
+BOT -..-o BOD{مدير مجلس الإدارة}
+style BOT fill:white,stroke:black,stroke-width:3px,stroke-dasharray: 5 5
+style BOD stroke:black,stroke-width:2px
+
+subgraph 1 [مجلس الإدارة]
+BOD --- scientific{{مدير الوحدة العلميّة}}
+BOD --- projects{{مدير وحدة المشاريع}}
+BOD --- logistics{{مدير الوحدة اللوجستيّة}}
+BOD --- information{{مدير وحدة المعلومات}}
+end
+
+style scientific stroke:black
+style projects stroke:black
+style logistics stroke:black
+style information stroke:black
+
+subgraph 2 [مسؤولو الفرق]
+scientific --> s1(مسؤولوا الأندية)
+
+projects --> p1(مسؤول منصّة مشاريع إبتكار)
+projects --> p3(مسؤول منصّة تكنوفست بالعربي)
+projects --> p2(مسؤولوا المشاريع الأخرى)
+
+logistics --> l1(مسؤول مكتب الأنشطة)
+logistics --> l2(مسؤول المكتب الإعلامي)
+
+information --> i1(مسؤول مكتب العلاقات)
+information --> i2(مسؤول مكتب الموارد البشريّة)
+end
+```
+
+
+
+
+``` mermaid
+timeline
+aaa
+bbb
+ccc
+ddd
+```
+
+
+
+
+``` mermaid
+timeline
+    title PetterTech YouTube channel
+    asd: Creation of channel
+    ddd: February <br> First video posted : June <br> Rebrand to PetterTech : October <br> First video to hit 1000 views
+    xcx: August <br> Reached a total of 25 uploads : September <br> First video to hit 10k views
+    ddd: October <br> Reached 1000 subscribers <br> : November <br> Eligible for YouTube partnership
+```
+
+
+
+
+``` mermaid
+flowchart TD
+
+subgraph 0 [الأمناء]
+BOT([أعضاء مجلس الأمناء])
+end
+
+BOT -..-o BOD{مدير مجلس الإدارة}
+style BOT fill:white,stroke:black,stroke-width:3px,stroke-dasharray: 5 5
+style BOD stroke:black,stroke-width:2px
+
+subgraph 1 [مجلس الإدارة]
+BOD --- scientific{{مدير الوحدة العلميّة}}
+BOD --- projects{{مدير وحدة المشاريع}}
+BOD --- logistics{{مدير الوحدة اللوجستيّة}}
+BOD --- information{{مدير وحدة المعلومات}}
+end
+
+style scientific stroke:black
+style projects stroke:black
+style logistics stroke:black
+style information stroke:black
+
+subgraph 2 [مسؤولو الفرق]
+logistics --> l1(مسؤول مكتب الأنشطة)
+logistics --> l2(مسؤول المكتب الإعلامي)
+
+projects --> p1(مسؤول منصّة مشاريع إبتكار)
+projects --> p3(مسؤول منصّة تكنوفست بالعربي)
+projects --> p2(مسؤولوا المشاريع الأخرى)
+
+scientific --> s1(مسؤولوا الأندية)
+
+information --> i1(مسؤول مكتب العلاقات)
+information --> i2(مسؤول مكتب الموارد البشريّة)
+end
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+``` mermaid
+flowchart RL
+
+subgraph 0 [الأمناء]
+BOT([أعضاء مجلس الأمناء])
+end
+
+BOT -..-o BOD{مدير مجلس الإدارة}
+style BOT fill:white,stroke:black,stroke-width:3px,stroke-dasharray: 5 5
+style BOD stroke:black,stroke-width:2px
+
+subgraph 1 [مجلس الإدارة]
+BOD --- scientific{{مدير الوحدة العلميّة}}
+BOD --- projects{{مدير وحدة المشاريع}}
+BOD --- logistics{{مدير الوحدة اللوجستيّة}}
+BOD --- information{{مدير وحدة المعلومات}}
+end
+
+style scientific stroke:black
+style projects stroke:black
+style logistics stroke:black
+style information stroke:black
+
+subgraph 2 [مسؤولو الفرق]
+
+subgraph 21
+logistics --> l1
+logistics --> l2(مسؤول المكتب الإعلامي)
+end
+
+subgraph 22
+projects --> p1(مسؤول منصّة مشاريع إبتكار)
+projects --> p3(مسؤول منصّة تكنوفست بالعربي)
+projects --> p2(مسؤولوا المشاريع الأخرى)
+end
+
+subgraph 23
+scientific --> s1(مسؤولوا الأندية)
+end
+
+subgraph 24
+information --> i1(مسؤول مكتب العلاقات)
+information --> i2(مسؤول مكتب الموارد البشريّة)
+end
+
+end
+
+subgraph 211
+logistics --> l1(مسؤول مكتب الأنشطة)
+l1 --> XX1
+end
+
+```
+
+
+
+
+
+
+
+
+``` mermaid
+flowchart RL
 BOT([مجلس الأمناء]) -.-o BOD{مجلس الإدارة}
 style BOT stroke:black,stroke-width:3px,stroke-dasharray: 5 5
 style BOD stroke:black,stroke-width:2px
