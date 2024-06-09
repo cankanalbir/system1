@@ -159,7 +159,7 @@ BOT -..-o BOD{مدير مجلس الإدارة}
 style BOT fill:white,stroke:black,stroke-width:3px,stroke-dasharray: 5 5
 style BOD stroke:black,stroke-width:2px
 
-subgraph 1 [[مجلس الإدارة](#1-الباب-الأول-هويّة-التجمع)]
+subgraph 1 [مجلس الإدارة]
 BOD --- scientific{{مدير الوحدة العلميّة}}
 BOD --- projects{{مدير وحدة المشاريع}}
 BOD --- logistics{{مدير الوحدة اللوجستيّة}}
@@ -172,14 +172,14 @@ style logistics stroke:black
 style information stroke:black
 
 subgraph 2 [مسؤولو الفرق]
-logistics --> l1(مسؤول مكتب الأنشطة)
-logistics --> l2(مسؤول المكتب الإعلامي)
+scientific --> s1(مسؤولوا الأندية)
 
 projects --> p1(مسؤول منصّة مشاريع إبتكار)
 projects --> p3(مسؤول منصّة تكنوفست بالعربي)
 projects --> p2(مسؤولوا المشاريع الأخرى)
 
-scientific --> s1(مسؤولوا الأندية)
+logistics --> l1(مسؤول مكتب الأنشطة)
+logistics --> l2(مسؤول المكتب الإعلامي)
 
 information --> i1(مسؤول مكتب العلاقات)
 information --> i2(مسؤول مكتب الموارد البشريّة)
