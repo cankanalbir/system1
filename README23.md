@@ -12,9 +12,11 @@
 
 ## المعرفات الرسمية للتجمع
 
-[![image](https://img.shields.io/badge/instagram-ibtikar.org.tr-purple?logo=instagram&labelColor=white)](https://www.instagram.com/ibtikar.org.tr)
-[![image](https://img.shields.io/badge/linkedin-ibtikar--org--tr-blue?logo=linkedin&logoColor=blue&labelColor=white)](https://www.linkedin.com/company/ibtikar-org-tr)
-[![image](https://img.shields.io/badge/mail-relations%40ibtikar.org.tr-gray?logo=gmail&labelColor=white)](mailto:relations@ibtikar.org.tr)
+[![image](https://img.shields.io/badge/instagram-ibtikar.org.tr-purple?style=for-the-badge&logo=instagram&labelColor=white)](https://www.instagram.com/ibtikar.org.tr)
+
+[![image](https://img.shields.io/badge/linkedin-ibtikar--org--tr-blue?style=for-the-badge&logo=linkedin&logoColor=blue&labelColor=white)](https://www.linkedin.com/company/ibtikar-org-tr)
+
+[![image](https://img.shields.io/badge/mail-relations%40ibtikar.org.tr-gray?style=for-the-badge&logo=gmail&labelColor=white)](mailto:relations@ibtikar.org.tr)
 
 [![image](https://img.shields.io/badge/website-ibtikar.org.tr-gray?logo=wordpress&logoColor=black&labelColor=white)](https://ibtikar.org.tr)
 [![Static Badge](https://img.shields.io/badge/Hugging_Face-ibtikar-f39c12?style=flat&logo=huggingface&logoColor=f39c12&labelColor=white)](https://huggingface.co/ibtikar)
