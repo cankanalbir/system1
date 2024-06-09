@@ -181,11 +181,11 @@ style logistics stroke:black
 style information stroke:black
 
 subgraph 2 [مسؤولو الفرق]
-scientific --> s1(مسؤولوا الأندية)
+scientific --> s1(مسؤولو الأندية)
 
 projects --> p1(مسؤول منصّة مشاريع إبتكار)
 projects --> p3(مسؤول منصّة تكنوفست بالعربي)
-projects --> p2(مسؤولوا المشاريع الأخرى)
+projects --> p2(مسؤولو المشاريع الأخرى)
 
 logistics --> l1(مسؤول مكتب الأنشطة)
 logistics --> l2(مسؤول المكتب الإعلامي)
