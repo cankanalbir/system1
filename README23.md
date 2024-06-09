@@ -1,3 +1,8 @@
+<p align="center">
+<img src="https://data.ibtikar.org.tr/files/2024/2401/logo-dark_blue.svg" height="150">
+</p>
+
+
 ### تجمّع إبتكار - النّظام الدّاخلي
 
 - هذا المجلّد يحتوي على ملفّات النّظام الدّاخلي لتجمّع إبتكار
