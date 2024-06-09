@@ -1,3 +1,5 @@
+[style](https://mermaid.js.org/syntax/flowchart.html)
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/mermaid-js/mermaid/develop/docs/public/favicon.svg" height="150">
 </p>
