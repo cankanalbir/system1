@@ -1,19 +1,55 @@
 ``` mermaid
-flowchart LR
+flowchart RL
+BOT([مجلس الأمناء]) -.-o BOD{مجلس الإدارة}
+style BOT stroke:black,stroke-width:3px,stroke-dasharray: 5 5
+style BOD stroke:black,stroke-width:2px
+
+BOD --- scientific{{الوحدة العلميّة}}
+BOD --- projects{{وحدة المشاريع}}
+BOD --- logistics{{الوحدة اللوجستيّة}}
+BOD --- information{{وحدة المعلومات}}
+
+style scientific stroke:black
+style projects stroke:black
+style logistics stroke:black
+style information stroke:black
+
+logistics --> l1(مكتب الأنشطة)
+logistics --> l2(المكتب الإعلامي)
+
+projects --> p1(منصّة مشاريع إبتكار)
+projects --> p3(منصّة تكنوفست بالعربي)
+projects --> p2(المشاريع الأخرى)
+
+scientific --> s1(الأندية)
+
+information --> i1(مكتب العلاقات)
+information --> i2(مكتب الموارد البشريّة)
+```
+
+
+
+
+
+
+
+
+``` mermaid
+flowchart RL
 
 subgraph 0 [الأمناء]
-BOT[أعضاء مجلس الأمناء]
+BOT([أعضاء مجلس الأمناء])
 end
 
-BOT -..-> BOD{مدير مجلس الإدارة}
+BOT -..-o BOD{مدير مجلس الإدارة}
 style BOT fill:white,stroke:black,stroke-width:3px,stroke-dasharray: 5 5
 style BOD stroke:black,stroke-width:2px
 
 subgraph 1 [مجلس الإدارة]
-BOD --- scientific>مدير الوحدة العلميّة]
-BOD --- projects>مدير وحدة المشاريع]
-BOD --- logistics>مدير الوحدة اللوجستيّة]
-BOD --- information>مدير وحدة المعلومات]
+BOD --- scientific{{مدير الوحدة العلميّة}}
+BOD --- projects{{مدير وحدة المشاريع}}
+BOD --- logistics{{مدير الوحدة اللوجستيّة}}
+BOD --- information{{مدير وحدة المعلومات}}
 end
 
 style scientific stroke:black
