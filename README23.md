@@ -156,7 +156,7 @@ BOT -..-o BOD{مدير مجلس الإدارة}
 style BOT fill:white,stroke:black,stroke-width:3px,stroke-dasharray: 5 5
 style BOD stroke:black,stroke-width:2px
 
-subgraph 1 [مجلس الإدارة]
+subgraph 1 [[مجلس الإدارة](#1-الباب-الأول-هويّة-التجمع)]
 BOD --- scientific{{مدير الوحدة العلميّة}}
 BOD --- projects{{مدير وحدة المشاريع}}
 BOD --- logistics{{مدير الوحدة اللوجستيّة}}
