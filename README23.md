@@ -1,7 +1,11 @@
 <p align="center">
 <img src="https://data.ibtikar.org.tr/files/2024/2401/logo-dark_blue.svg" height="150">
 </p>
+<div align="center">
+<img src="https://img.shields.io/badge/2022-2024-273746?style=for-the-badge&logoColor=273746&labelColor=f2f4f4" alt="Static Badge">
+</div>
 
+---
 
 ### تجمّع إبتكار - النّظام الدّاخلي
 
