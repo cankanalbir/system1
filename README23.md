@@ -12,13 +12,14 @@
 
 ## المعرفات الرسمية للتجمع
 
-[![image](https://img.shields.io/badge/instagram-ibtikar.org.tr-purple?logo=instagram&labelColor=white)](https://www.instagram.com/ibtikar.org.tr)   [![image](https://img.shields.io/badge/linkedin-ibtikar--org--tr-blue?logo=linkedin&logoColor=blue&labelColor=white)](https://www.linkedin.com/company/ibtikar-org-tr)
+[![image](https://img.shields.io/badge/instagram-ibtikar.org.tr-purple?logo=instagram&labelColor=white)](https://www.instagram.com/ibtikar.org.tr)
+[![image](https://img.shields.io/badge/linkedin-ibtikar--org--tr-blue?logo=linkedin&logoColor=blue&labelColor=white)](https://www.linkedin.com/company/ibtikar-org-tr)
+[![image](https://img.shields.io/badge/mail-relations%40ibtikar.org.tr-gray?logo=gmail&labelColor=white)](mailto:relations@ibtikar.org.tr)
 
-[![image](https://img.shields.io/badge/website-ibtikar.org.tr-gray?logo=wordpress&logoColor=black&labelColor=white)](https://ibtikar.org.tr)   [![image](https://img.shields.io/badge/mail-relations%40ibtikar.org.tr-gray?logo=gmail&labelColor=white)](mailto:relations@ibtikar.org.tr)
-
-[![image](https://img.shields.io/badge/other_links-links.ibtikar.org.tr-orange?style=flat&logo=firebase&logoColor=orange&labelColor=white)](https://link.ibtikar.org.tr/links)
+[![image](https://img.shields.io/badge/website-ibtikar.org.tr-gray?logo=wordpress&logoColor=black&labelColor=white)](https://ibtikar.org.tr)
 [![Static Badge](https://img.shields.io/badge/Hugging_Face-ibtikar-f39c12?style=flat&logo=huggingface&logoColor=f39c12&labelColor=white)](https://huggingface.co/ibtikar)
 [![Static Badge](https://img.shields.io/badge/GitHub-ibtikar--org--tr-181717?style=flat&logo=github&logoColor=181717&labelColor=white)](https://github.com/ibtikar-org-tr)
+[![image](https://img.shields.io/badge/other_links-links.ibtikar.org.tr-orange?style=flat&logo=firebase&logoColor=orange&labelColor=white)](https://link.ibtikar.org.tr/links)
 
 [![Static Badge](https://img.shields.io/badge/instagram-ibtikar.mines-E4405F?style=flat&logo=instagram&logoColor=E4405F&labelColor=white)](https://www.instagram.com/ibtikar.mines)
 [![Static Badge](https://img.shields.io/badge/instagram-teknofest__ar-E4405F?style=flat&logo=instagram&logoColor=E4405F&labelColor=white)](https://www.instagram.com/teknofest_ar)
