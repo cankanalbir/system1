@@ -3,19 +3,40 @@
 - هذا المجلّد يحتوي على ملفّات النّظام الدّاخلي لتجمّع إبتكار
 - رابط هذا النظام الداخلي: [![Static Badge](https://img.shields.io/badge/-system-gray?logo=github&logoColor=black&labelColor=white)](https://github.com/ibtikar-org-tr/bylaws)
 
-#### ملحقات النظام الداخلي
+## ملحقات النظام الداخلي
 - الملف التعريفي: [![Static Badge](https://img.shields.io/badge/intro-ar-27ae60?style=flat&logo=libreoffice&logoColor=27ae60&labelColor=white)](https://data.ibtikar.org.tr/documents/ar/intro.pdf) [![Static Badge](https://img.shields.io/badge/intro-tr-c0392b?style=flat&logo=libreoffice&logoColor=c0392b&labelColor=white)](https://data.ibtikar.org.tr/documents/tr/intro.pdf) [![Static Badge](https://img.shields.io/badge/intro-en-f1c40f?style=flat&logo=libreoffice&logoColor=f1c40f&labelColor=white)](https://data.ibtikar.org.tr/documents/en/intro.pdf)
 -  أسئلة شائعة: [![Static Badge](https://img.shields.io/badge/-FAQ-purple?logo=qualcomm&logoColor=black&labelColor=white)](FAQ.md)
 -  منصّة تكنوفست بالعربي: [![Static Badge](https://img.shields.io/badge/-TEKNOFEST__ar-FF4A17?logo=firebase&logoColor=FF4A17&labelColor=white)](TEKNOFEST_ar)
 -  الأندية الطلابية: [![Static Badge](https://img.shields.io/badge/beta-clubs-blue?style=flat&logo=gitlab&logoColor=blue&labelColor=white)](/clubs/beta/README.md)
 
 
+## المعرفات الرسمية للتجمع
+
+[![image](https://img.shields.io/badge/instagram-ibtikar.org.tr-purple?logo=instagram&labelColor=white)](https://www.instagram.com/ibtikar.org.tr)   [![image](https://img.shields.io/badge/linkedin-ibtikar--org--tr-blue?logo=linkedin&logoColor=blue&labelColor=white)](https://www.linkedin.com/company/ibtikar-org-tr)
+
+[![image](https://img.shields.io/badge/website-ibtikar.org.tr-gray?logo=wordpress&logoColor=black&labelColor=white)](https://ibtikar.org.tr)   [![image](https://img.shields.io/badge/mail-relations%40ibtikar.org.tr-gray?logo=gmail&labelColor=white)](mailto:relations@ibtikar.org.tr)
+
+[![image](https://img.shields.io/badge/other_links-links.ibtikar.org.tr-orange?style=flat&logo=firebase&logoColor=orange&labelColor=white)](https://link.ibtikar.org.tr/links)
+[![Static Badge](https://img.shields.io/badge/Hugging_Face-ibtikar-f39c12?style=flat&logo=huggingface&logoColor=f39c12&labelColor=white)](https://huggingface.co/ibtikar)
+[![Static Badge](https://img.shields.io/badge/GitHub-ibtikar--org--tr-181717?style=flat&logo=github&logoColor=181717&labelColor=white)](https://github.com/ibtikar-org-tr)
+
+[![Static Badge](https://img.shields.io/badge/instagram-ibtikar.mines-E4405F?style=flat&logo=instagram&logoColor=E4405F&labelColor=white)](https://www.instagram.com/ibtikar.mines)
+[![Static Badge](https://img.shields.io/badge/instagram-teknofest__ar-E4405F?style=flat&logo=instagram&logoColor=E4405F&labelColor=white)](https://www.instagram.com/teknofest_ar)
+[![Static Badge](https://img.shields.io/badge/WhatsApp-%2B90_507_822_20_22-25D366?style=flat&logo=whatsapp&logoColor=25D366&labelColor=white)](https://wa.me/905078222022)
+
+
+## المحتوى
+| اضغط للوصول | الباب |
+| :---- | :---- |
+| [هوية التجمّع](#1-الباب-الأول-هويّة-التجمع) | `الباب الأوّل` |
+| [مواد النّظام العامّة](#2-الباب-الثّاني-مواد-النّظام-الدّاخلي) | `الباب الثّاني` |
+| [هيكليّة التجمّع](#3-الباب-الثّالث-هيكليّة-التجمع) | `الباب الثّالث` |
+| [العضويّة](#4-الباب-الرّابع-العضويّة) | `الباب الرّابع` |
+
 
 
 # `1` الباب الأول: هويّة التجمع
-<details>
-<summary>اضغط للقراءة</summary>
-  
+
 ### البند الأول: التّعريف
   - **التّعريف نصّاً**:
     - تجمّع إبتكار هو فريق تطوّعي يجمع طلّاب الجامعات النّاطقين بالعربيّة، المهتميّن بالابتكار والتّكنولوجيا والبحث والتّطوير، فيسعى لتمكينهم وإغناء خبراتهم التّقنيّة من خلال فعاليات ومشاريع تُلامس حياة الطّالب بدءاً من الحياة الجامعيّة ومروراً بالتّطوير في المجال التّقني والمهارات المجتمعيّة ووصولاً إلى التّخطيط المهني وإدارة المشاريع.
@@ -49,12 +70,11 @@
 - `الإبداع`
 - `التّشارك`
 - `الاستقلالية`
-   </details>
+ 
 
 # `2` الباب الثّاني: مواد النّظام الدّاخلي
 
-<details>
-<summary>اضغط للقراءة</summary>
+
 
 ### `2.1`	البند الأوّل: المواد الرّئيسيّة
 - `2.1.1`	تجمّع إبتكار يعمل لأهداف مجتمعيّة، لا يمكن استخدام التجمّع لأهداف شخصيّة
@@ -86,42 +106,40 @@
 ### `2.5`	البند الخامس: فعاليات التجمع
 - `2.5.1`	يحتوي تجمع إبتكار على العديد من النوادي والمشاريع (الوحدة العلمية)، كل منها يعمل بشكل منفصل على فعاليات مختلفة
 - `2.5.2`	يتمّ تنظيم مشاريع أو فعاليات من قبل الوحدة العلمية بناءً على أهداف التّجمّع ورؤيته
-</details>
+- 
 
 # `3` الباب الثّالث: هيكليّة التجمع
-
-
 
 ## `3.1` البند الأوّل: سلّم الهيكليّة
 ### `3.1.1`	سلّم الهيكليّة العامّة
 
 ``` mermaid
-flowchart RL
-BOT([مجلس الأمناء]) -.-o BOD{مجلس الإدارة}
-style BOT stroke:black,stroke-width:3px,stroke-dasharray: 5 5
-style BOD stroke:black,stroke-width:2px
-
-BOD --- scientific{{الوحدة العلميّة}}
-BOD --- projects{{وحدة المشاريع}}
-BOD --- logistics{{الوحدة اللوجستيّة}}
-BOD --- information{{وحدة المعلومات}}
-
-style scientific stroke:black
-style projects stroke:black
-style logistics stroke:black
-style information stroke:black
-
-logistics --> l1(مكتب الأنشطة)
-logistics --> l2(المكتب الإعلامي)
-
-projects --> p1(منصّة مشاريع إبتكار)
-projects --> p3(منصّة تكنوفست بالعربي)
-projects --> p2(المشاريع الأخرى)
-
-scientific --> s1(الأندية)
-
-information --> i1(مكتب العلاقات)
-information --> i2(مكتب الموارد البشريّة)
+  flowchart RL
+    BOT([مجلس الأمناء]) -.-o BOD{مجلس الإدارة}
+    style BOT stroke:black,stroke-width:3px,stroke-dasharray: 5 5
+    style BOD stroke:black,stroke-width:2px
+    
+    BOD --- scientific{{الوحدة العلميّة}}
+    BOD --- projects{{وحدة المشاريع}}
+    BOD --- logistics{{الوحدة اللوجستيّة}}
+    BOD --- information{{وحدة المعلومات}}
+    
+    style scientific stroke:black
+    style projects stroke:black
+    style logistics stroke:black
+    style information stroke:black
+    
+    logistics --> l1(مكتب الأنشطة)
+    logistics --> l2(المكتب الإعلامي)
+    
+    projects --> p1(منصّة مشاريع إبتكار)
+    projects --> p3(منصّة تكنوفست بالعربي)
+    projects --> p2(المشاريع الأخرى)
+    
+    scientific --> s1(الأندية)
+    
+    information --> i1(مكتب العلاقات)
+    information --> i2(مكتب الموارد البشريّة)
 ```
 
 ### `3.1.2`	سلّم الهيكليّة الإداريّة
@@ -266,10 +284,9 @@ end
 
 
 
+
 # `4` الباب الرّابع: العضويّة
 
-<details>
-<summary>اضغط للقراءة</summary>
 
 ### `4.1`	البند الأوّل: أنواع العضويّة
 
@@ -330,11 +347,3 @@ end
   - الجناح الصّناعي
   - جناح العلوم الطبيعيّة
   - جناح الإدارة والفنون
-
-</details>
-
-## المعرفات الرسمية للتجمع
-
-[![image](https://img.shields.io/badge/instagram-ibtikar.org.tr-purple?logo=instagram&labelColor=white)](https://www.instagram.com/ibtikar.org.tr)   [![image](https://img.shields.io/badge/linkedin-ibtikar--org--tr-blue?logo=linkedin&logoColor=blue&labelColor=white)](https://www.linkedin.com/company/ibtikar-org-tr)
-
-[![image](https://img.shields.io/badge/website-ibtikar.org.tr-gray?logo=wordpress&logoColor=black&labelColor=white)](https://ibtikar.org.tr)   [![image](https://img.shields.io/badge/mail-relations%40ibtikar.org.tr-gray?logo=gmail&labelColor=white)](mailto:relations@ibtikar.org.tr)
