@@ -126,178 +126,41 @@ flowchart LR
 
 ``` mermaid
 flowchart LR
-    BOT[أعضاء مجلس الأمناء] --> BOD[رئيس مجلس الإدارة]
-    BOD --> deputy[نائب رئيس مجلس الإدارة]
-    BOD --> scientific[مدير الوحدة العلمية]
-    BOD --> logistics[مدير الوحدة اللوجستية]
-    BOD --> relations[مدير مكتب العلاقات]
 
-    deputy --> clubManager[مسؤولي الأندية]
-    deputy --> projectManager[مسؤولي المشاريع]
+subgraph 0 [الأمناء]
+BOT[أعضاء مجلس الأمناء]
+end
 
-    clubManager --> clubMembers[منسقي الأندية]
-    projectManager --> projectMembers[منسقي المشاريع]
+BOT -..-> BOD{مدير مجلس الإدارة}
+style BOT fill:white,stroke:black,stroke-width:3px,stroke-dasharray: 5 5
+style BOD stroke:black,stroke-width:2px
 
-    logistics --> mediaOffice[أعضاء المكتب الإعلامي]
-    logistics --> activitiesOffice[أعضاء مكتب الأنشطة]
-    logistics --> archiveOffice[أعضاء مكتب الأرشيف]
-    relations --> relationsMembers[أعضاء مكتب العلاقات]
+subgraph 1 [مجلس الإدارة]
+BOD --- scientific>مدير الوحدة العلميّة]
+BOD --- projects>مدير وحدة المشاريع]
+BOD --- logistics>مدير الوحدة اللوجستيّة]
+BOD --- information>مدير وحدة المعلومات]
+end
 
-    style BOT fill:#3399FF,stroke:#000,stroke-width:1px
-    style BOD fill:#3399FF,stroke:#000,stroke-width:1px
-    style deputy fill:#3399FF,stroke:#000,stroke-width:1px
-    style scientific fill:#3399FF,stroke:#000,stroke-width:1px
-    style logistics fill:#3399FF,stroke:#000,stroke-width:1px
-    style relations fill:#3399FF,stroke:#000,stroke-width:1px
-    style clubManager fill:#3399FF,stroke:#000,stroke-width:1px
-    style projectManager fill:#3399FF,stroke:#000,stroke-width:1px
-    style clubMembers fill:#3399FF,stroke:#000,stroke-width:1px
-    style projectMembers fill:#3399FF,stroke:#000,stroke-width:1px
-    style mediaOffice fill:#3399FF,stroke:#000,stroke-width:1px
-    style activitiesOffice fill:#3399FF,stroke:#000,stroke-width:1px
-    style archiveOffice fill:#3399FF,stroke:#000,stroke-width:1px
-    style relationsMembers fill:#3399FF,stroke:#000,stroke-width:1px
+style scientific stroke:black
+style projects stroke:black
+style logistics stroke:black
+style information stroke:black
+
+subgraph 2 [مسؤولو الفرق]
+logistics --> l1(مسؤول مكتب الأنشطة)
+logistics --> l2(مسؤول المكتب الإعلامي)
+
+projects --> p1(مسؤول منصّة مشاريع إبتكار)
+projects --> p3(مسؤول منصّة تكنوفست بالعربي)
+projects --> p2(مسؤولوا المشاريع الأخرى)
+
+scientific --> s1(مسؤولوا الأندية)
+
+information --> i1(مسؤول مكتب العلاقات)
+information --> i2(مسؤول مكتب الموارد البشريّة)
+end
 ```
-
-
-
-
-
-``` mermaid
-flowchart TB
-    subgraph level1 [ ]
-        direction LR
-        members[الأمناء] --> board[مجلس الإدارة] --> active[الأعضاء الفعّالين]
-        style level1 fill:#3399FF,stroke:#000,stroke-width:1px,color:white
-        style members fill:#3399FF,stroke:#000,stroke-width:1px,color:white
-        style board fill:#3399FF,stroke:#000,stroke-width:1px,color:white
-        style active fill:#3399FF,stroke:#000,stroke-width:1px,color:white
-    end
-    members2[أعضاء مجلس الأمناء] --> BOD[رئيس مجلس الإدارة]
-    BOD --> deputy[نائب رئيس مجلس الإدارة]
-    BOD --> scientific[مدير الوحدة العلمية]
-    BOD --> logistics[مدير الوحدة اللوجستية]
-    BOD --> relations[مدير مكتب العلاقات]
-
-    deputy --> clubManager[مسؤولي الأندية]
-    deputy --> projectManager[مسؤولي المشاريع]
-
-    clubManager --> clubCoordinators[منسقي الأندية]
-    projectManager --> projectCoordinators[منسقي المشاريع]
-
-    logistics --> mediaOffice[أعضاء المكتب الإعلامي]
-    logistics --> activitiesOffice[أعضاء مكتب الأنشطة]
-    logistics --> archiveOffice[أعضاء مكتب الأرشيف]
-    relations --> relationsMembers[أعضاء مكتب العلاقات]
-
-    style members2 fill:#3399FF,stroke:#000,stroke-width:1px,color:white
-    style BOD fill:#3399FF,stroke:#000,stroke-width:1px,color:white
-    style deputy fill:#3399FF,stroke:#000,stroke-width:1px,color:white
-    style scientific fill:#3399FF,stroke:#000,stroke-width:1px,color:white
-    style logistics fill:#3399FF,stroke:#000,stroke-width:1px,color:white
-    style relations fill:#3399FF,stroke:#000,stroke-width:1px,color:white
-    style clubManager fill:#3399FF,stroke:#000,stroke-width:1px,color:white
-    style projectManager fill:#3399FF,stroke:#000,stroke-width:1px,color:white
-    style clubCoordinators fill:#3399FF,stroke:#000,stroke-width:1px,color:white
-    style projectCoordinators fill:#3399FF,stroke:#000,stroke-width:1px,color:white
-    style mediaOffice fill:#3399FF,stroke:#000,stroke-width:1px,color:white
-    style activitiesOffice fill:#3399FF,stroke:#000,stroke-width:1px,color:white
-    style archiveOffice fill:#3399FF,stroke:#000,stroke-width:1px,color:white
-    style relationsMembers fill:#3399FF,stroke:#000,stroke-width:1px,color:white
-```
-
-
-
-```mermaid
-timeline
-    title Organizational Structure
-    section أعضاء مجلس الأمناء
-    المجلس التنفيذي: الأمناء
-    section مجلس الإدارة
-    رئيس مجلس الإدارة: مجلس الإدارة
-    نائب رئيس مجلس الإدارة: نائب الرئيس
-    مدير الوحدة العلمية: العلمية
-    مدير الوحدة اللوجستية: اللوجستية
-    مدير مكتب العلاقات: العلاقات
-    section الفعالين
-    مسؤولي الأندية: الأندية
-    مسؤولي المشاريع: المشاريع
-    أعضاء المكتب الإعلامي: الإعلام
-    أعضاء مكتب الأنشطة: الأنشطة
-    أعضاء مكتب الأرشيف: الأرشيف
-    أعضاء مكتب العلاقات: علاقات
-    section تنسيق
-    منسقي الأندية: منسقي الأندية
-    منسقي المشاريع: منسقي المشاريع
-```
-
-
-``` mermaid
-sequenceDiagram
-    participant A as أعضاء مجلس الأمناء
-    participant B as رئيس مجلس الإدارة
-    participant C as نائب رئيس مجلس الإدارة
-    participant D as مدير الوحدة العلمية
-    participant E as مدير الوحدة اللوجستية
-    participant F as مدير مكتب العلاقات
-    participant G as مسؤولي الأندية
-    participant H as مسؤولي المشاريع
-    participant I as منسقي الأندية
-    participant J as منسقي المشاريع
-    participant K as أعضاء المكتب الإعلامي
-    participant L as أعضاء مكتب الأنشطة
-    participant M as أعضاء مكتب الأرشيف
-    participant N as أعضاء مكتب العلاقات
-
-    A ->> B: 
-    B ->> C: 
-    B ->> D: 
-    B ->> E: 
-    B ->> F: 
-    C ->> G: 
-    C ->> H: 
-    G ->> I: 
-    H ->> J: 
-    E ->> K: 
-    E ->> L: 
-    E ->> M: 
-    F ->> N: 
-
-```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
  
