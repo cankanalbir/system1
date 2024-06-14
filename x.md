@@ -12,7 +12,7 @@ BOT0 & BOT1 & BOT2 & BOT3 -..-o BOD{مدير مجلس الإدارة <br> عبد
 
 style BOD stroke:black,stroke-width:2px
 
-subgraph 1 [أعضاء مجلس الإدارة]
+subgraph 1 [أعضاء مجلس الإدارة - دورة الإسراء]
 BOD --- scientific[ مدير الوحدة العلميّة <br> ماسة سودان ]
 BOD --- projects{{مدير وحدة المشاريع <br> عبد الله دعمش }}
 BOD --- logistics{{مدير الوحدة اللوجستيّة <br> سدرة عجم }}
